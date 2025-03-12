@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " Forest area as a proportion of total land area",
+                "Forest area as a proportion of total land area",
                 ""
               ]
             },
